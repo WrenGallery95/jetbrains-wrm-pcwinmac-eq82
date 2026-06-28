@@ -1,4 +1,4 @@
-# 
+# Professionnel JetBrains PyCharm flux de travail pour Mac OS | Open Source JetBrains PyCharm flux de travail pour PC Windows. Avec import et export de données et variables d'environnement — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
